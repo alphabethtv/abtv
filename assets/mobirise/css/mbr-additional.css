@@ -3620,6 +3620,28 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/sword-art-online2-2-1920x1080.png");
 }
+.cid-rbKBEFlxQl {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rbKBEFlxQl .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rbKBKUfHw2 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rbKBKUfHw2 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rbKBKUfHw2 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rbBwemWSY5 {
   padding-top: 60px;
   padding-bottom: 60px;
